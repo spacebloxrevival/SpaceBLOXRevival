@@ -4,12 +4,12 @@ import { getAuth, createUserWithEmailAndPassword } from "https://www.gstatic.com
 
 // Your Firebase config (replace with your own details)
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT.appspot.com",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyBUgpz_1wkT02HravpvyVcB3GGll8V26JE",
+    authDomain: "spaceblox-287fb.firebaseapp.com",
+    projectId: "824474198979",
+    storageBucket: "spaceblox-287fb.appspot.com",
+    messagingSenderId: "824474198979",
+    appId: "spaceblox-287fb"
 };
 
 // Initialize Firebase
